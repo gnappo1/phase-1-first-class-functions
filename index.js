@@ -32,3 +32,5 @@ function returnsAnAnonymousFunction(){
 }
 
 console.log(returnsAnAnonymousFunction())
+
+
